@@ -1,0 +1,5 @@
+pkg upgrade && pkg update
+pkg install openssl
+pkg install neofetch
+pkg install tsu
+pkg install dialog
