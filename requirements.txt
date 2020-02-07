@@ -3,3 +3,4 @@ pkg install openssl
 pkg install neofetch
 pkg install tsu
 pkg install dialog
+pip install lolcat
