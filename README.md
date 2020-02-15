@@ -7,4 +7,3 @@ THE MOST HORRIBLE PUBG HACKING PROJECT IS HERE !
 
 [![DEADLINE](https://telegra.ph/file/7ca5bc0f3e72ac82edb1f.jpg)]
 
-
