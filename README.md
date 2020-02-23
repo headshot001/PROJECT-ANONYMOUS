@@ -11,9 +11,15 @@
 
 # INSTALLATION
 
+**CLONING THE REPO**
+
  `$cd $HOME`
  
  `$git clone https://github.com/Ayush1311/PROJECT-ANONYMOUS.git`
+
+ **AFTER CLONING**
+  
+ `$cd $HOME`
 
  `$cd PROJECT-ANONYMOUS`
 
