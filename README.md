@@ -8,6 +8,10 @@
 
 # INSTALLATION
 
+ `$cd $HOME`
+ 
+ `$git clone https://github.com/Ayush1311/PROJECT-ANONYMOUS.git`
+
  `$cd PROJECT-ANONYMOUS`
 
  `$sh requirements.txt`
