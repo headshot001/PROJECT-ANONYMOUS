@@ -17,3 +17,6 @@
  `$bash anonymous.sh`
 
 
+# INSTRUCTIONS
+
+[[INCT](https://telegra.ph/file/d1410d93afc95075703a9.png)]
