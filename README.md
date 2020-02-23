@@ -9,6 +9,11 @@
 # INSTALLATION
 
  `$cd PROJECT-ANONYMOUS`
+
  `$sh requirements.txt`
+
  `$tsu`
+
  `$bash anonymous.sh`
+
+
