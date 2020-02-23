@@ -23,8 +23,8 @@
 
 # INSTRUCTIONS
 
-[![INCT](https://telegra.ph/file/d1410d93afc95075703a9.png)]
+[![INCT](https://telegra.ph/file/d1410d93afc95075703a9.png)]()
 
 # SCREENSHOTS
 
-[![SPPT](https://telegra.ph/file/c1d18c72958d5125f417d.png)]
+[![SPPT](https://telegra.ph/file/c1d18c72958d5125f417d.png)]()
