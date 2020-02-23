@@ -11,7 +11,7 @@
 
 # INSTALLATION
 
-**CLONING THE REPO(ONE TIME)**
+**CLONING THE REPO (ONE TIME)**
 
  `$cd $HOME`
  
@@ -21,7 +21,7 @@
 
  `$sh requirements.txt`
 
-**AFTER CLONING(EVERYTIME)**
+**AFTER CLONING (EVERYTIME)**
   
  `$cd $HOME`
 
