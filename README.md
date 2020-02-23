@@ -19,18 +19,18 @@
 
  `$git clone https://github.com/Ayush1311/PROJECT-ANONYMOUS.git`
 
- **AFTER CLONING**
+ 
+**AFTER CLONING**
   
  `$cd $HOME`
 
  `$cd PROJECT-ANONYMOUS`
 
- `$sh requirements.txt`
-
  `$tsu`
 
  `$bash anonymous.sh`
 
+ `$sh requirements.txt`
 
 # INSTRUCTIONS
 
