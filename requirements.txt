@@ -9,3 +9,5 @@ pkg install pv
 pkg install toilet
 pkg install root-repo
 pkg install sox
+pkg install cowsay
+
