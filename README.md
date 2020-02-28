@@ -16,7 +16,7 @@
 
  `$git clone https://github.com/Ayush1311/PROJECT-ANONYMOUS.git`
 
- `$sh requirements.sh`
+ `$bash requirements.sh`
 
 **AFTER CLONING (EVERYTIME)**
   
