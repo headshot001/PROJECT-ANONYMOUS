@@ -10,14 +10,16 @@
 
 **CLONING THE REPO (ONE TIME)**
 
-```$cd $HOME
+```
+   $cd $HOME
    $pkg install git
    $git clone https://github.com/Ayush1311/PROJECT-ANONYMOUS.git    $bash requirements.sh
 ```
 
 **AFTER CLONING (EVERYTIME)**
   
-```$cd $HOME
+```
+   $cd $HOME
    $cd PROJECT-ANONYMOUS
    $tsu
    $bash anonymous.sh
