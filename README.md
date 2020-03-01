@@ -40,4 +40,4 @@
 
 [![SPPT](https://telegra.ph/file/5578b046968fd9cba25f3.png)]()
 
-[![SPPT](https://telegra.ph/file/e4f0230509e56ad36df5b.png)]()
+[![SPPT](https://telegra.ph/file/5e532fa41a8fb9e7c792a.jpg)]()
