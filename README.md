@@ -23,10 +23,6 @@
    cd PROJECT-ANONYMOUS
    bash anonymous.sh
 ```
-## STEP NECESSARY
-***AFTER ENTERING `bash anonymous.sh`*** **OPEN A NEW SESSION AND TYPE** `bash hosts.sh`
-# INSTRUCTIONS
-
 [![INCT](https://telegra.ph/file/d1410d93afc95075703a9.png)]()
 
 # SCREENSHOTS
