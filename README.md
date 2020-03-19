@@ -23,7 +23,7 @@
    cd PROJECT-ANONYMOUS
    bash anonymous.sh
 ```
-# STEP NECESSARY
+## STEP NECESSARY
 ***AFTER ENTERING `bash anonymous.sh`*** **OPEN A NEW SESSION AND TYPE** `bash hosts.sh`
 # INSTRUCTIONS
 
