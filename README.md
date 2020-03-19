@@ -24,7 +24,7 @@
    $cd PROJECT-ANONYMOUS
    $bash anonymous.sh
 
-***open a new terminal and type***
+****open a new terminal and type****
 
 $bash hosts.sh
 ```
