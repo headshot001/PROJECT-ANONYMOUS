@@ -11,4 +11,5 @@ pkg install root-repo
 pkg install sox
 pkg install cowsay
 pkg install termux-api
+pkg install cmatrix
 
