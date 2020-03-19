@@ -11,23 +11,23 @@
 **CLONING THE REPO (ONE TIME)**
 
 ```
-   $cd $HOME
-   $pkg install git
-   $git clone https://github.com/Ayush1311/PROJECT-ANONYMOUS.git    
-   $bash requirements.sh
+   cd $HOME
+   pkg install git
+   git clone https://github.com/Ayush1311/PROJECT-ANONYMOUS.git    
+   bash requirements.sh
 ```
 
 **AFTER CLONING (EVERYTIME)**
   
 ```
-   $cd $HOME
-   $cd PROJECT-ANONYMOUS
-   $bash anonymous.sh
+   cd $HOME
+   cd PROJECT-ANONYMOUS
+   bash anonymous.sh
 ```
 
 **OPEN A NEW SESSION AND TYPE**
 `
-$bash hosts.sh
+bash hosts.sh
 `
 # INSTRUCTIONS
 
