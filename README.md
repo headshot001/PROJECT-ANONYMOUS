@@ -23,6 +23,10 @@
    $cd $HOME
    $cd PROJECT-ANONYMOUS
    $bash anonymous.sh
+
+**open a new terminal and type**
+
+$bash hosts.sh
 ```
 # INSTRUCTIONS
 
