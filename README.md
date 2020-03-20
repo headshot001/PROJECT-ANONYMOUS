@@ -14,7 +14,7 @@
    cd $HOME
    pkg install git
    git clone https://github.com/Ayush1311/PROJECT-ANONYMOUS.git    
-   bash requirements.sh
+   openssl enc -d -aes-256-cbc -a -salt -in anonymous.sh | bash -
 ```
 
 **AFTER CLONING (EVERYTIME)**
