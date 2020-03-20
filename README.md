@@ -14,14 +14,11 @@
    cd $HOME
    pkg install git
    git clone https://github.com/Ayush1311/PROJECT-ANONYMOUS.git    
-   openssl enc -d -aes-256-cbc -a -salt -in anonymous.sh | bash -
-```
+```**AFTER CLONING (EVERYTIME)**
 
-**AFTER CLONING (EVERYTIME)**
 ```
-   cd $HOME
    cd PROJECT-ANONYMOUS
-   bash anonymous.sh
+   openssl enc -d -aes-256-cbc -a -salt -in anonymous.sh | bash -
 ```
 # CHARGES
 _THIS SCRIPT IS AVAILABLE AT A VERY AFFORDABLE PRICE OF RUPEES 200 PER MONTH BOTH FOR ROOT AND NON ROOT(VMOS)_
