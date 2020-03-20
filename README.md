@@ -40,7 +40,7 @@ _THIS SCRIPT IS AVAILABLE AT A VERY AFFORDABLE PRICE OF RUPEES 200 PER MONTH BOT
 [![INCT](https://telegra.ph/file/d1410d93afc95075703a9.png)]()
 
 # CLICK ON THE IMAGE BELOW TO DOWNLOAD LATEST GAME GUARDIAN
-[![GG](https://telegra.ph/file/f3478590012a0250a8e20.png)(https://gameguardian.net/download)
+[![GG](https://telegra.ph/file/f3478590012a0250a8e20.png)(https://gameguardian.net/download)]
 
 # SCREENSHOTS
 
