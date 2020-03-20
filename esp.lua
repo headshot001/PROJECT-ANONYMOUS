@@ -297,7 +297,9 @@ gg.toast("全图距离开启失败")
 end
 
 function C()
-os.exit
+gg.toast(os.date"成功退出脚本……\n当前时间：%Y年%m月%d日%H时%M分%S秒")
+os.exit()
+end
 
 while true do
 if gg.isVisible(true) then
