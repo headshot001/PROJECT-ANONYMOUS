@@ -14,7 +14,8 @@
    cd $HOME
    pkg install git
    git clone https://github.com/Ayush1311/PROJECT-ANONYMOUS.git    
-```**AFTER CLONING (EVERYTIME)**
+```
+**AFTER CLONING (EVERYTIME)**
 
 ```
    cd PROJECT-ANONYMOUS
