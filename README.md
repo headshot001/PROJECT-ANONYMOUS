@@ -21,7 +21,8 @@
 
 ```
    cd PROJECT-ANONYMOUS
-   openssl enc -d -aes-256-cbc -a -salt -in anonymous.sh | bash -
+   openssl enc -d -aes-256-cbc -a -salt -in anonymous.sh > anonymous.sh 
+   bash anonymous.sh
 ```
 # CHARGES
 _THIS SCRIPT IS AVAILABLE AT A VERY AFFORDABLE PRICE OF RUPEES 200 PER MONTH BOTH FOR ROOT AND NON ROOT(VMOS)_
