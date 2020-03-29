@@ -1,3 +1,4 @@
+termux-setup-storage
 pkg upgrade && pkg update
 pkg install openssl
 pkg install neofetch
