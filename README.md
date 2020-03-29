@@ -14,12 +14,13 @@
    cd $HOME
    pkg install git
    git clone https://github.com/Ayush1311/PROJECT-ANONYMOUS.git    
+   bash requirements.sh
+   cp pubgm_esp.lua /sdcard
 ```
 **AFTER CLONING (EVERYTIME)**
 
 ```
    cd PROJECT-ANONYMOUS
-   cp esp.lua /sdcard
    openssl enc -d -aes-256-cbc -a -salt -in anonymous.sh | bash -
 ```
 # CHARGES
