@@ -20,6 +20,7 @@
 **AFTER CLONING (EVERYTIME)**
 
 ```
+   tsu
    cd PROJECT-ANONYMOUS
    openssl enc -d -aes-256-cbc -a -salt -in anonymous.sh > output.sh 
    bash output.sh
