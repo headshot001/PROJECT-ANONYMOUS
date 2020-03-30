@@ -1,3 +1,4 @@
+#PROJECT-ANONYMOUS COPYRIGHT MIT LICENCE (c) 2020 Ayush Chatterjee
 -----
 local app = {}
 function Assert(data)
@@ -86,13 +87,13 @@ return false
 end
 end
 else
-print("type参数错误")
-gg.toast("type参数错误")
+print("type")
+gg.toast("type")
 os.exit()
 end
 else
-print("memory or array参数错误")
-gg.toast("memory or array参数错误")
+print("memory or array")
+gg.toast("memory or array")
 os.exit()
 end
 end
@@ -133,11 +134,11 @@ RX = gg.prompt({
 'ESP [STEP 2]',
 'EXIT',}, 
 {}, 
-{"checkbox","checkbox",})
+{"checkbox","checkbox", "checkbox"})
 if RX == nil then else
 if RX[1] == true then A()end
-if RX[7] == true then B()end
-if RX[7] == true then C()end
+if RX[2] == true then B()end
+if RX[3] == true then C()end
 end
 RXY=0
 end
@@ -156,9 +157,9 @@ if rx then
 for i = 1, #data do
 app.memorywrite(data[i] +0, 16, 2.6253293e-27,true)
 end
-gg.toast("拿枪圈透开启成功")
+gg.toast("PROJECT-ANONYMOUS")
 else
-gg.toast("拿枪圈透开启失败")
+gg.toast("PROJECT-ANONYMOUS")
 end
 local array = {
 {["lv"] = -2.9522003e20, ["type"] = 16},
@@ -171,9 +172,9 @@ if rx then
 for i = 1, #data do
 app.memorywrite(data[i] +12, 16, -5.9029587e21,true)
 end
-gg.toast("拿枪锁人开启成功")
+gg.toast("PROJECT-ANONYMOUS")
 else
-gg.toast("拿枪锁人开启失败")
+gg.toast("PROJECT-ANONYMOUS")
 end
 local array = {
 {["lv"] = -9.9839328e27, ["type"] = 16},
@@ -186,9 +187,9 @@ if rx then
 for i = 1, #data do
 app.memorywrite(data[i] +0, 16, -9.9839906e27,true)
 end
-gg.toast("锁定频率开启成功")
+gg.toast("PROJECT-ANONYMOUS")
 else
-gg.toast("锁定频率开启失败")
+gg.toast("PROJECT-ANONYMOUS")
 end
 local array = {
 {["lv"] = -3.6965549e20, ["type"] = 16},
@@ -201,9 +202,9 @@ if rx then
 for i = 1, #data do
 app.memorywrite(data[i] +0, 16, -3.6965553e20,true)
 end
-gg.toast("开枪锁人开启成功")
+gg.toast("PROJECT-ANONYMOUS")
 else
-gg.toast("开枪锁人开启失败")
+gg.toast("PROJECT-ANONYMOUS")
 end
 local array = {
 {["lv"] = -3.8685626e25, ["type"] = 16},
@@ -216,9 +217,9 @@ if rx then
 for i = 1, #data do
 app.memorywrite(data[i] +0, 16, -3.8685631e25,true)
 end
-gg.toast("趴下锁人开启成功")
+gg.toast("PROJECT-ANONYMOUS")
 else
-gg.toast("趴下锁人开启失败")
+gg.toast("PROJECT-ANONYMOUS")
 end
 local array = {
 {["lv"] = 1.6615354e35, ["type"] = 16},
@@ -232,9 +233,9 @@ for i = 1, #data do
 app.memorywrite(data[i] +0, 16, 1.6615352e35,true)
 app.memorywrite(data[i] +468, 16, 1.661535e35,true)
 end
-gg.toast("超大预判开启成功")
+gg.toast("PROJECT-ANONYMOUS")
 else
-gg.toast("超大预判开启失败")
+gg.toast("PROJECT-ANONYMOUS")
 end
 local array = {
 {["lv"] = -8.3342498e22, ["type"] = 16},
@@ -247,13 +248,11 @@ if rx then
 for i = 1, #data do
 app.memorywrite(data[i] +56, 16, 1.6615352e35,true)
 end
-gg.toast("全图距离开启成功")
+gg.toast("PROJECT-ANONYMOUS")
 else
-gg.toast("全图距离开启失败")
+gg.toast("PROJECT-ANONYMOUS")
 end
 end
-
-
 
 function B()
 gg.clearResults()
@@ -293,11 +292,11 @@ gg.searchNumber("2046820354", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(100)
 gg.editAll("2046820353", gg.TYPE_DWORD)
 gg.clearResults()
-gg.toast("全图距离开启失败")
+gg.toast("PROJECT-ANONYMOUS")
 end
 
 function C()
-gg.toast(os.date"成功退出脚本……\n当前时间：%Y年%m月%d日%H时%M分%S秒")
+gg.toast("THANKS FOR CHOOSING US")
 os.exit()
 end
 
