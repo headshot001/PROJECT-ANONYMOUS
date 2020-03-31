@@ -292,7 +292,17 @@ gg.searchNumber("2046820354", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(100)
 gg.editAll("2046820353", gg.TYPE_DWORD)
 gg.clearResults()
+gg.clearResults()
+gg.setRanges(gg.REGION_C_DATA)
+gg.searchNumber("-1,901,891,198,734,303,227", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)
+lol = gg.getResultsCount()
+if lol == 1 then
 gg.toast("PROJECT-ANONYMOUS")
+gg.getResults(1)
+gg.editAll("-1,901,891,198,902,075,392", gg.TYPE_QWORD)
+gg.clearResults()
+gg.toast("PROJECT-ANONYMOUS")
+end
 end
 
 function C()
