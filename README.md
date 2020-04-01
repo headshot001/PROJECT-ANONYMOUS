@@ -25,7 +25,7 @@
    cd PROJECT-ANONYMOUS
    openssl enc -d -aes-256-cbc -a -salt -in anonymous.sh > output.sh 
    bash output.sh
-   NOW OPEN A NEW SESSION AND TYPE : bash hosts.sh
+   NOW OPEN A NEW SESSION AND TYPE : cd $HOME/PROJECT-ANONYMOUS && bash hosts.sh
 ```
 ### WARNING : _NOT USING THE `hosts.sh` FILE WILL LEAD TO ACCOUNT BAN_
 
