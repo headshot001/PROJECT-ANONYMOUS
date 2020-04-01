@@ -7,7 +7,6 @@
 #--AUTO UPDATE HOSTS--#
 cd $HOME/PROJECT-ANONYMOUS
 rm hosts.sh
-git clone https://github.com/Ayush1311/PROJECT-ANONYMOUS/blob/master/hosts.sh
 #---------------------#
 
 #--FUNCTION--#
