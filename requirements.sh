@@ -14,3 +14,5 @@ pkg install cowsay
 pkg install termux-api
 pkg install cmatrix
 pkg install openssl-tool
+pkg install python3
+pip3 install requests
