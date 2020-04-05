@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 #PROJECT-ANONYMOUS COPYRIGHT MIT LICENCE (c) 2020 Ayush Chatterjee
 
 #---MORE DOMAINS NEEDED---#
