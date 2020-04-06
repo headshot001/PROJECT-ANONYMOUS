@@ -5,7 +5,7 @@
 ::start::
 ::menu::
 gg.setVisible(false)
-menu = gg.choice({'ANTIBAN LOBBY','ESP HACK LOBBY/GAME','EXIT'},nil,'SCRIPT MADE BY AYUSH')
+menu = gg.choice({'ANTIBAN LOBBY','ESP HACK LOBBY/GAME','EXIT'},nil,'SCRIPT FOR PROJECT-ANONYMOUS[github.com/Ayush1311/PROJECT-ANONYMOUS]')
 
 --dk--
 if menu ==1 then goto aa end
