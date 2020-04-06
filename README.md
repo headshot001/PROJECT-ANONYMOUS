@@ -94,7 +94,7 @@ KEY SYSTEM WITH PRIVATE USERNAME AND PASSWORD**
 
 [![GG1](https://telegra.ph/file/f44969e64bfcb436b1851.jpg)](https://m.youtube.com/watch?v=JH-G0mS14kk&t=1s)
 
-**USE THE ABOVE PROCESS TO EXETUTE THE `esp.lua` file 👆**
+**USE THE ABOVE PROCESS TO EXETUTE THE `pubgm.lua` or `codm.lua` file 👆**
 
 # SCREENSHOTS
 
