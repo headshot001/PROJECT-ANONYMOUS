@@ -4,11 +4,17 @@
 #---MORE DOMAINS NEEDED---#
 
 #--FUNCTION--#
-> /system/etc/hosts
-printf ".com\n.net\n.org\n.in\n.mobi\n.wiki\n.us\n.qq.com\n.helpshift.com\n.co\n.igamecj.com\n.biz\n.tel\n.tencent.com\n.qcloud.com\n.dns.com\n.proximabeta.com\n.cnn.com\n.cnzz.com\n.igamecj.com\n.tencent.com\n.pubgmobile.com\n.gcloud.com\n.gcloudcs.com\n.myqcloud.com\n.imsdk.com\n.amazonaws.com\n.1e100.net" > /system/etc/hosts
-tor #--(service-tor-start)--#
+#--USES 4nonimizer for auto-ip-change--#
+#--PLEASE READ THE GUIDE HERE https://github.com/Hackplayers/4nonimizer.git--#
 
-#--CREDITS--#
-#@AyushChatterjee(t.me/AyushChatterjee)
-#@itsMercy(t.me/itsmercy)
-#@RaZeR877(t.me/RaZeR877)
+> /system/etc/hosts
+printf ".com\n.net\n.org\n.in\n.mobi\n.wiki\n.us\n.co\n.biz\n.tel"> /system/etc/hosts
+rm -rf $HOME/4nonimizer
+git clone https://github.com/Hackplayers/4nonimizer.git
+cd $HOME/4nonimizer
+4nonimizer start
+while true; do
+4nonimizer change_ip
+4nonimizer restart
+sleep 60;
+done
