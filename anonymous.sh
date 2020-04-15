@@ -19,7 +19,6 @@ sleep 1
 echo
 echo "THIS PROJECT IS LICENSED UNDER MIT LICENSE ® 2020 BY MASTER AYUSH CHATTERJEE"|lolcat| pv -qL 80
 echo
-sleep 1
 
 #USERNAME AND PASSWORD [ENTRY POINT]
 #My way of making username and password👇
@@ -142,7 +141,6 @@ echo
 if validate "$u" "$p"; then
 echo "ACCESS GRANTED" |lolcat| pv -qL 80
 echo
-sleep 1
 else
 echo
 echo "INVALID USERNAME OR PASSWORD ! ACCESS DENIED" |lolcat| pv -qL 80
@@ -156,8 +154,7 @@ do
 sleep 0.01
 echo $i
 done | whiptail --title 'PROJECT ANONYMOUS' --gauge 'LOADING RESOURCES...' 6 60 0| pv -qL 500
-echo""
-sleep 1
+echo 
 neofetch
 termux-wake-lock
 echo
@@ -172,14 +169,11 @@ else
 echo "ROOT ACCESS VALIDIFIED"|lolcat| pv -qL 80
 fi
 echo
-sleep 1
 echo "PLEASE ACCEPT TO THE TERMS AND CONDITIONS IN THE NEXT PROMPT " |lolcat| pv -qL 80
 echo""
-sleep 1
 dialog --keep-tite --title "WARNING !" --msgbox 'THIS SCRIPT IS RUNNING UNDER SUDO MODE.WE DONT TAKE LIABILITY TO ANY DAMAGE MADE TO YOUR DEVICE BY THIS SCRIPT ! IF U UNDERSTAND THE RISKS AND STILL WANT TO PROCEED CLICK OK ELSE EXIT THE SCRIPT WITH CTRL+Z' 20 30 | pv -qL 500
 dialog --keep-tite --title "INSTRUCTIONS" --msgbox 'WAIT TILL THE SCRIPT EXECUTES AND STARTS THE GAME.PLAY THE GAME AS LONG AS U WISH.WHEN YOU HAVE FINISHED PLAYING THEN RETURN TO TErm -rfINAL AND PRESS CTRL+C.IT WILL BEGIN TO RESTORE THE CHANGES' 20 30 | pv -qL 500
 echo
-sleep 1
 
 #CREATING DIRECTORIES
 if test -d $HOME/ANONYMOUS; then
@@ -197,7 +191,6 @@ echo
 play $HOME/PROJECT-ANONYMOUS/options.mp3 &> /dev/null
 echo "PLEASE SELECT YOUR GAME FROM THE PROMPT WINDOW "|lolcat| pv -qL 80
 echo
-sleep 2
 
 # "CHOOSE YOUR GAME" WINDOW
 cmd=(dialog --keep-tite --menu "PLEASE SELECT YOUR GAME :" 15 40 4)
