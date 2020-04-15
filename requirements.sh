@@ -8,7 +8,7 @@ pkg install python
 pip install lolcat
 pkg install pv
 pkg install toilet
-pkg install root-repo
+pkg install figlet 
 pkg install sox
 pkg install cowsay
 pkg install termux-api
