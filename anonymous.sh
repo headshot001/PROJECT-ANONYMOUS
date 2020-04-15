@@ -21,7 +21,7 @@ echo "THIS PROJECT IS LICENSED UNDER MIT LICENSE ® 2020 BY MASTER AYUSH CHATTER
 echo
 
 #USERNAME AND PASSWORD [ENTRY POINT]
-#My way of making username and password👇
+#My way of making username and password :
 # for i in {1..100}; do (replace 100 with the no. of username and password you wanna make)
 # echo "$(pwgen 20 1) $(pwgen 20 1)"
 # done
@@ -204,7 +204,7 @@ options=(1 "PUBG MOBILE GLOBAL"
 choices=$("${cmd[@]}" "${options[@]}" 2>&1 >/dev/tty)
 for choice in $choices
 do
-case $choice in.
+case $choice in
 
 # FUNCTIONS TO DO UNDER 1,2,3,4,5,6
 
