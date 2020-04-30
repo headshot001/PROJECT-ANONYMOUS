@@ -3,8 +3,6 @@
 
 #Made by @AyushChatterjee(t.me/AyushChatterjee)
 
-#MADE WITH ORIGINALITY FOR COPY-PASTERS
-
 figlet PROJECT | lolcat
 figlet ANONYMOUS| lolcat
 echo
